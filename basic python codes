@@ -1,0 +1,2 @@
+#how to get an input from user in python
+i=input('enter something please')
